@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial';
+}
+
+header h1{
+    font-family: 'Arial';
+    color: palevioletred;
+}
+
+h3{
+    font-family: 'Arial';
+    color: green;
+}
+
+h1 {
+    color: rgb(228, 105, 146);
+}
+ 
+.paragrafo {
+    padding: 30px;
+    display: flex;
+    margin: 0px;
+    border: 15px solid yellow;
+    width: 400px;
+    background-color: rgb(90, 175, 140);
+    align-items: center;
+}
+
+.paragrafo p {
+    font-family: 'Arial';
+    color: #fff;
+}    
+
+h2 {
+    color: palevioletred;
+}
+
+.paginacompleta {
+    background-color: rgb(210, 255, 255);
+}
